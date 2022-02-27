@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/VeezVideoBot"><img src="https://github.com/levina-lab/video-stream/raw/main/driver/veezlogo.png"></a></p>
+<p align="center"><a href="https://t.me/VeezVideoBot"><img src="https://github.com/Learningbots79/video-stream/raw/main/driver/veezlogo.png"></a></p>
 <p align="center">
     <br><b>Video Stream is an Open-Source Telegram Bot project that's allow you to play Video & Music trough the Telegram Group Video Chat</b><br>
 </p>
@@ -85,7 +85,7 @@ root@linux~ $ python3 main.py
 
 ## License
 
-Distributed under the [GNU General Public License v3.0 License](https://github.com/levina-lab/video-stream/blob/main/LICENSE) See `LICENSE.md` for more information.
+Distributed under the [GNU General Public License v3.0 License](https://github.com/Learningbots79/video-stream/blob/main/LICENSE) See `LICENSE.md` for more information.
 
 ## Credits
 
