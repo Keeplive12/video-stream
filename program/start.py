@@ -112,9 +112,9 @@ async def start_(c: Client, message: Message):
                     ),
                     InlineKeyboardButton(
                         "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
-                    ),
-                ],
-                [
+                    
+                
+                
        
                         
                     )
