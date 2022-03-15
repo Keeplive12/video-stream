@@ -12,9 +12,9 @@ async def start_bot():
     LOGS.info("[INFO]: PY-TGCALLS CLIENT STARTED !!")
     await user.join_chat("VeezSupportGroup")
     await user.join_chat("levinachannel")
-    await run()
-    LOGS.info("[INFO]: BOT & USERBOT STARTED !!")
-    await bot.start()
+    await idle()
+    LOGS.info("[INFO]: BOT & USERBOT STOPPED !!")
+    await bot.stop()
 
 loop = asyncio.get_event_loop()
-loop.run_until_complete(main())
+loop.run_until_complete(start_bot())
