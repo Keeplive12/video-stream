@@ -111,7 +111,12 @@ async def start_(c: Client, message: Message):
                         "👥 Official Group", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL} 
+                        "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
+                    ),
+                ],
+                [
+       
+                        
                     )
                 ],
             ]
